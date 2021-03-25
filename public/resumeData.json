@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Matthew Ricklefs",
+    "occupation": "Student and Aspiring Junior Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "To be a Junior Developer, I would like to learn how to create interpersonal relationships and be able to foster a cooperative mentality. I am very well suited in the art of providing humble service to another but to take that to the next level, I aspire to be a part of a team. As far as technology, I am truly inspired by the React library and it's component based architecture. While studying development, I was able to touch on a high level overview of many different technologies such as : HTML, CSS, JS, Python, Flask, MongoDB, Express, React.js, Node.js. For me, there is a sort of seamless nature to the way I can wrap my mind around React, which inspires me to continue my studies. I aspire to continue to complete a Bachelor's in Computer Science and slip into an entry level development position, so that I may acquire a real world experience of what it is really like to develop with a team and grow as a Developer.",
+    "contactmessage": "Get in touch with me if you would like!",
+    "email": "ricklefsmatthew1003@gmail.com",
+    "phone": "619-490-8315",
+    "address": {
+      "street": "Bushwick",
+      "city": "Brooklyn",
+      "state": "New York",
+      "zip": "11206"
+    },
+    "website": "https://mjr-bottega-react-portfolio.herokuapp.com/",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/matthew-ricklefs-13284a1b9/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/matthewricklefs",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Bottega University - US - Remote",
+        "degree": "Certificate of Completion, Full Stack Web Development",
+        "graduated": "February 2021",
+        "description": ""
+      },
+      {
+        "school": "Richland College - US - TX",
+        "degree": "FOS Audio Engineering",
+        "graduated": "2016",
+        "description": ""
+      },
+      {
+        "school": "Eastfield College - US - TX",
+        "degree": "Associate of Liberal Arts",
+        "graduated": "2013",
+        "description": ""
+      }
+      
+    ],
+    "work": [
+      {
+        "company": "Tutorialist",
+        "title": "of Youtube React Videos",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "68%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix2.jpg",
+        "url": "https://netflix-clone-ac054.web.app/"
+      },
+      {
+        "title": "COVID-19 Statistics Tracker (React JS)",
+        "category": "",
+        "image": "covid19.jpeg",
+        "url": "https://bottega-corona-capstone-mjr.herokuapp.com/"
+      },
+      {
+        "title": "Tetris Clone (React JS)",
+        "category": "",
+        "image": "tetris.jpg",
+        "url": "https://quiet-badlands-37805.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Matthew is absolutely excellent and his energy really meant a lot to me... I would definitely recommend",
+        "user": "Ryan Curtis"
+      }
+    ]
+  }
+}
