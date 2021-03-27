@@ -4,7 +4,7 @@
     "occupation": "Student and Aspiring Junior Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "To be a Junior Developer, I would like to learn how to create interpersonal relationships and be able to foster a cooperative mentality. I am very well suited in the art of providing humble service to another but to take that to the next level, I aspire to be a part of a team. As far as technology, I am truly inspired by the React library and it's component based architecture. While studying development, I was able to touch on a high level overview of many different technologies such as : HTML, CSS, JS, Python, Flask, MongoDB, Express, React.js, Node.js. For me, there is a sort of seamless nature to the way I can wrap my mind around React, which inspires me to continue my studies. I aspire to continue to complete a Bachelor's in Computer Science and slip into an entry level development position, so that I may acquire a real world experience of what it is really like to develop with a team and grow as a Developer.",
+    "bio": "To be a Junior Developer, I would like to learn how to create interpersonal relationships and be able to foster a cooperative mentality. I am dedicated to providing value by being capable of problem solving as an independent asset to a team environment. As far as technology, I am truly inspired by the React library and it's component based architecture. While studying development, I was able to touch on a high level overview of many different technologies such as : HTML, CSS, JS, Python, Flask, MongoDB, Express, React.js, Node.js. For me, there is a sort of seamless nature to the way I can wrap my mind around React, which inspires me to continue my studies. I aspire to continue to complete a Bachelor's in Computer Science and slip into an entry level development position, so that I may acquire a real world experience of what it is really like to develop with a team and grow as a Developer.",
     "contactmessage": "Get in touch with me if you would like!",
     "email": "ricklefsmatthew1003@gmail.com",
     "phone": "619-490-8315",
@@ -117,14 +117,20 @@
         "category": "",
         "image": "tetris.jpg",
         "url": "https://quiet-badlands-37805.herokuapp.com/"
+      },
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "",
+        "image": "slack.jpg",
+        "url": "https://slack-clone-bdc9b.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Matthew is absolutely excellent and his energy really meant a lot to me... I would definitely recommend",
-        "user": "Ryan Curtis"
+        "text": "Matthew is hard working and dedicated to achieving a deep understanding of the concepts he sets out to learn. He's high spirited and exudes positive energy. Definitely a solid asset to a team.",
+        "user": "Ryan Curtis - Instructor at Bottega University"
       }
     ]
   }
