@@ -123,6 +123,12 @@
         "category": "",
         "image": "slack.jpg",
         "url": "https://slack-clone-bdc9b.web.app/"
+      },
+      {
+        "title": "WhatsApp Clone (React JS)",
+        "category": "",
+        "image": "whatsapp.jpeg",
+        "url": "https://whatsapp-clone-six.vercel.app/"
       }
     ]
   },
