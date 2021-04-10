@@ -65,7 +65,6 @@
         "graduated": "2013",
         "description": ""
       }
-      
     ],
     "work": [
       {
@@ -103,32 +102,38 @@
       {
         "title": "Netflix Clone (React JS)",
         "category": "",
-        "image": "netflix2.jpg",
+        "image": "2.png",
         "url": "https://netflix-clone-ac054.web.app/"
       },
       {
         "title": "COVID-19 Statistics Tracker (React JS)",
         "category": "",
-        "image": "covid19.jpeg",
+        "image": "1.png",
         "url": "https://bottega-corona-capstone-mjr.herokuapp.com/"
       },
       {
         "title": "Tetris Clone (React JS)",
         "category": "",
-        "image": "tetris.jpg",
+        "image": "5.png",
         "url": "https://quiet-badlands-37805.herokuapp.com/"
       },
       {
         "title": "Slack Clone (React JS)",
         "category": "",
-        "image": "slack.jpg",
+        "image": "3.png",
         "url": "https://slack-clone-bdc9b.web.app/"
       },
       {
         "title": "WhatsApp Clone (React JS)",
         "category": "",
-        "image": "whatsapp.jpeg",
+        "image": "6.png",
         "url": "https://whatsapp-clone-six.vercel.app/"
+      },
+      {
+        "title": "Google Clone (Next JS)",
+        "category": "",
+        "image": "4.png",
+        "url": "https://google-clone-kappa.vercel.app/"
       }
     ]
   },
